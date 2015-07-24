@@ -1,0 +1,78 @@
+
+#first {
+	padding-top: 70px;
+	
+	
+}
+body{
+	
+	background: rgba(230,230,250,0.6);
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-weight:bold;
+	letter-spacing: 0.5px;
+	font-size: 15px;
+}
+
+#well1 {
+	background-color: rgba(230,230,250,0.6);
+	border-color: black;
+	
+	
+	
+}
+#well20 {
+	background-color: rgba(230,230,250,0.6);
+	
+}
+
+footer {
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding:20px;
+	margin-top: 100px;
+
+}
+ul.unstyled {
+	list-style: none;
+	padding: 0;
+}
+
+#well2 {
+	background-color: tomato;
+	border-color: black;
+
+}
+#text1 {
+	font-size: 16px;
+	font-weight: 30px;
+	font-family: arial;
+}
+#well3 {
+	float: right;
+}
+h3 {
+	text-align: center;
+}
+#floatcenter{
+	text-align: center;
+}
+
+#features{
+	text-align: center;
+}
+#features img{
+	margin: 0 0 20px;
+
+}
+#centered {
+	text-align: center;
+
+}
+#link {
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
